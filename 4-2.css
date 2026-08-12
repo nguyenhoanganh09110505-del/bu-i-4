@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+}
+
+.header {
+    background-color: rgb(49, 48, 48);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.menu {
+    background-color: rgb(160, 156, 156);
+    text-align: center;
+    padding: 10px;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
