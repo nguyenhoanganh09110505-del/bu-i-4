@@ -1,0 +1,23 @@
+h1 {
+    color: orange;
+}
+
+.blue {
+    color: blue;
+}
+
+
+.red {
+    color: red;
+}
+
+.tip {
+    background-color: lightyellow;
+    padding: 15p;
+    border-left: 4px solid orange;
+}
+
+span {
+    font-weight: bold;
+    color: orange;
+}
