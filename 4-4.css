@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+}
+
+.content {
+    width: 650px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+span {
+    color: blue;
+}
